@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category id="1">
+        <name>Action</name>
+        <image>/MovieRental/assets/images/action.jpg</image>
+    </category>
+    <category id="2">
+        <name>Adventure</name>
+        <image>/MovieRental/assets/images/adventure.jpg</image>
+    </category>
+    <category id="3">
+        <name>Comedy</name>
+        <image>/MovieRental/assets/images/comedy.jpg</image>
+    </category>
+    <category id="4">
+        <name>Horror</name>
+        <image>/MovieRental/assets/images/horror.JFIF</image>
+    </category>
+    <category id="5">
+        <name>Romance</name>
+        <image>/MovieRental/assets/images/romance.JFIF</image>
+    </category>
+    <category id="6">
+        <name>Thriller</name>
+        <image>/MovieRental/assets/images/thiller.jpg</image>
+    </category>
+    <category id="7">
+        <name>History</name>
+        <image>/MovieRental/assets/images/history.jpg</image>
+    </category>
+    <category id="8">
+        <name>Sci-Fiction</name>
+        <image>/MovieRental/assets/images/sf.jpg</image>
+    </category>
+</categories>

@@ -1,0 +1,37 @@
+/* Style for the form */
+#myForm {
+    text-align: left;
+    margin-left: 180px;
+    margin-right: auto;
+    margin-top: 50px; 
+    max-width: 600px; /* Set a maximum width for the form to center it within its container */
+  }
+  
+  /* Style for the buttons container */
+  .button-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Style for the buttons */
+  .same-size-button {
+    margin-bottom: 10px;
+  }
+
+  /* Style for the buttons */
+.same-size-button {
+    margin-bottom: 20px;
+    text-align: left;
+    background-color: rgb(24, 99, 20); /* Change to your desired color */
+    color: rgb(226, 220, 220); /* Change to your desired text color */
+    border-radius: 8px;
+    justify-content: space-between;
+
+  }
+
+  .same-size-button i {
+    margin-left: 400px;
+  }
+  
+  
+  

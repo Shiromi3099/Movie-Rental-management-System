@@ -1,0 +1,107 @@
+/* CSS code to align all labels and make field sizes consistent */
+.card-body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.form-group {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.form-row {
+  display: flex;
+  gap: 15px;
+}
+
+.form-group label {
+  min-width: 180px;
+  margin-bottom: 0;
+}
+
+.submit-button-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Styles for the .container-fluid (modify as needed) */
+.container-fluid {
+    position: relative;
+  }
+  
+  /* Styles for the .withering-label */
+  .withering-label {
+    position: absolute;
+    top: 10px; /* Adjust the top value as needed to control the vertical position */
+    right: 10px; /* Adjust the right value as needed to control the horizontal position */
+    background-color:#7bb97e;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif; /* Change the font family */
+    font-size: 16px; /* Change the font size */
+    font-weight: bold; /* Change the font weight */
+    color: #f9f4f4da; /* Change the font color */
+  }
+/* Custom CSS for changing the input field size */
+.custom-input {
+    flex: 1; /* This allows the input field to take the available width within the form group */
+    min-width: 20px; /* Set the minimum width for the input field */
+    /* Add any other styles for the input field here, e.g., font-size, padding, etc. */
+  }
+
+  /* Optional CSS for customizing the label and input field alignment */
+.form-group label {
+    min-width: 100px; /* Set a minimum width for the label to provide enough space */
+  }
+  
+  /* Optional: Style the Submit button */
+.submit-button-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.submit-button-wrapper button {
+  background-color: #4CAF50; /* Green color */
+  color: white; /* Text color */
+  border: none; /* Remove border */
+  padding: 10px 20px; /* Add padding */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Add a cursor on hover */
+  font-size: 16px; /* Set font size */
+}
+
+/* Optional: Change button styles on hover */
+.submit-button-wrapper button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+
+   /* Add some basic styling to make the button visible */
+.add-button {
+  padding: 5px 1px;
+  background-color: #071d07;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 10px; /* Increase the font size for a better appearance */
+ float: right;
+}
+
+/* Optional: Add some margin between elements */
+.option {
+  margin-bottom: 10px;
+ 
+}
+
+<style>
+  .button-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Adjust the gap as per your desired spacing between buttons */
+    justify-content: center; /* Center the buttons horizontally */
+  }
+</style>
+
+  
+  

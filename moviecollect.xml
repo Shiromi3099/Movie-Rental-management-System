@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <movie id="1">
+        <title>Sonic the Hedgehog 2</title>
+        <genre>Action</genre>
+        <release_year>2024</release_year>
+        <duration>122</duration>
+        <rating>7.8</rating>
+        <quality>2K</quality>
+        <available>true</available>
+        <image>/MovieRental/assets/images/movie-1.png</image>
+        <description>In this thrilling sequel, Sonic returns with his friends to stop the evil Dr. Robotnik, who is now joined by a new ally, Knuckles.</description>
+    </movie>
+
+    <movie id="2">
+        <title>Morbius</title>
+        <genre>Action</genre>
+        <release_year>2022</release_year>
+        <duration>104</duration>
+        <rating>5.9</rating>
+        <quality>HD</quality>
+        <available>true</available>
+        <image>/MovieRental/assets/images/movie-2.png</image>
+        <description>Morbius follows the story of Dr. Michael Morbius, a biochemist turned into a living vampire after an experiment to cure his rare blood disorder goes wrong.</description>
+    </movie>
+
+    <movie id="3">
+        <title>The Adam Project</title>
+        <genre>Sci-Fiction</genre>
+        <release_year>2022</release_year>
+        <duration>110</duration>
+        <rating>7.0</rating>
+        <quality>4K</quality>
+        <available>false</available>
+        <image>/MovieRental/assets/images/movie-3.png</image>
+        <description>A time-traveling pilot teams up with his younger self and his late father to confront their past while saving the future in this emotional sci-fi adventure.</description>
+    </movie>
+
+    <movie id="4">
+        <title>Free Guy</title>
+        <genre>Comedy</genre>
+        <release_year>2021</release_year>
+        <duration>115</duration>
+        <rating>7.7</rating>
+        <quality>4K</quality>
+        <available>true</available>
+        <image>/MovieRental/assets/images/movie-4.png</image>
+        <description>When a bank teller realizes he's actually a non-playable character (NPC) in a video game, he takes matters into his own hands to become the hero of his world.</description>
+    </movie>
+
+    <!-- Add more movie records as needed -->
+<movie><title>Uncharted</title><genre>Adventure</genre><release_year>2020</release_year><duration>110</duration><rating>8.9</rating><quality>HD</quality><available>true</available><image>assets/images/movie-6.png</image><description>Street-smart Nathan Drake (Tom Holland) is recruited by seasoned treasure hunter Victor "Sully" Sullivan (Mark Wahlberg) to recover a fortune amassed by Ferdinand Magellan and lost 500 years ago by the House of Moncada.</description></movie><movie><id>1</id><title>Conjuring2</title><genre>Horror</genre><release_year>2018</release_year><duration>110</duration><rating>8.9</rating><quality>2K</quality><available>true</available><image>assets/images/horror.jfif</image><description>Parents need to know that The Conjuring is a truly scary horror movie that's based on a true story about a haunted house, a demon possession, and an exorcism. It's more frightening than gory; no characters die (except a dog), and not much blood is shown, except during an intense demon-possession scene at the climax.</description></movie><movie><id>2</id><title>movie</title><genre>Horror</genre><release_year>2024</release_year><duration>110</duration><rating>8.9</rating><quality>2K</quality><available>true</available><image>assets/images/action.jpg</image><description>swqa</description></movie></catalog>

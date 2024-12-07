@@ -1,0 +1,123 @@
+@font-face {
+  font-family: Font1;
+  src: url("../Dependencies/Fonts/IBMPlexSans-Bold.ttf");
+}
+
+body {
+  background-image: url("../Dependencies/ImageAssets/slideshow2.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Font1', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6; /* Increase overall line spacing */
+}
+
+.pclass1 {
+  color: white;
+  font-size: 8vh;  /* Increase size slightly */
+  margin-left: 25vh;
+  margin-top: 5vh; /* Add more top margin for vertical space */
+  font-family: 'Font1';
+}
+
+.pclass2 {
+  color: white;
+  font-size: 5vh; /* Slightly larger for readability */
+  margin-left: 20vh;
+  margin-top: 3vh; /* Increased margin for spacing */
+  font-family: 'Font1';
+}
+
+h2 {
+  color: white;
+  font-size: 3vh;
+  margin-left: 25vh;
+  margin-top: 25vh; /* Add extra space above this element */
+  font-family: 'Font1';
+}
+
+#rcorners3 {
+  border-radius: 25px;
+  background-color: white;
+  opacity: 0.85;
+  width: 350px; /* Slightly larger for more content */
+  height: auto;  /* Adjust height dynamically */
+  padding: 40px; /* Increased padding for more whitespace inside */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15vh; /* More top margin for vertical spacing */
+}
+
+.button1 {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  margin: 6vh 3vh 0 3vh;  /* Increased top margin */
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  font-weight: bold;
+  width: 15vh; /* Slightly larger buttons */
+}
+
+.info {
+  border-color: #2196F3;
+  color: black;
+}
+
+.info:hover {
+  background-color: #2196F3;
+  color: white;
+}
+
+.input1, .input2, .input3 {
+  font-weight: bold;
+  margin: 3vh 0 0 3.1vh; /* Increased margin for vertical space */
+  height: 5vh;  /* Larger height for better usability */
+  background-color: rgb(211, 195, 195);
+  border-radius: 8px;
+  width: 30vh;  /* Increase width for input fields */
+  color: black;
+  font-family: 'Font1';
+  padding-left: 10px;
+}
+
+::placeholder {
+  color: black;
+  opacity: 1;
+}
+
+.line1, .line2, .line3 {
+  margin-top: 35vh; /* Add more whitespace between elements */
+}
+
+.logSignButton {
+  margin: 4vh 0 0 2.9vh;  /* Increased top margin */
+  border-radius: 6px;
+  padding: 2vh 12vh; /* More padding for larger buttons */
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.logSignButton:hover {
+  background-color: white;
+  color: black;
+}
+
+#b1 {
+  color: white;
+}
+
+.error-message {
+  color: red;
+  font-size: 2vh; /* Adjust size based on your design */
+  margin-left: 1vh;
+  margin-top: 1vh;
+  font-family: 'Font1';
+}
